@@ -1,0 +1,31 @@
+.info{
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-right:10px;
+    padding-bottom: 10px;
+    background-color: lightgreen;
+    border: 2px solid green;
+    width: 80%;
+}
+
+.info h4{
+    font-size: 20px;
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.info-two h4{
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin: 5px 0px 20px 10px;
+    font-size: 15px;
+}
+
+.input-group{
+    margin-top:10px;
+}
+
+.create{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}

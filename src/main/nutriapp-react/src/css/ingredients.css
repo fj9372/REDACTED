@@ -1,0 +1,117 @@
+.ingredients:hover{
+    text-align: center;
+    background-color:gray;
+    cursor: pointer;
+}
+
+.IngredientInfo{
+    text-align: left;
+    background-color: white;
+    width:30%;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-right:10px;
+    padding-bottom: 10px;
+    border: 2px solid lightgray;
+}
+
+.RecipeIngredient{
+    text-align: left;
+    background-color: white;
+    width:30%;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-right:10px;
+    padding-bottom: 10px;
+    border: 2px solid lightgray;
+}
+
+.RecipeIngredient h4{
+    font-size: 15px;
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+
+}
+
+.RecipeIngredient h3{
+    font-size: 20px;
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.RecipeIngredient h2{
+    text-align: center;
+    font-size: 25px;
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.RecipeIngredient textarea{
+    background-color: white;
+    border: none
+}
+
+.IngredientInfo h4{
+    font-size: 15px;
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+
+}
+
+.IngredientInfo h3{
+    font-size: 20px;
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+
+}
+
+.searchResult {
+    padding: 5px 5px 5px 5px;
+    border: 1px solid lightgray;
+}
+
+.searchResult:hover{
+    background-color: lightgray;
+    cursor: pointer;
+}
+
+.addNew{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    margin-left:10px;
+}
+
+.prepareInstruction{
+    border: 2px solid lightgray;
+    margin: 10px 10px 10px 10px
+}
+
+.IngredientRequirement{
+    border: 2px solid lightgray;
+    margin: 10px 10px 10px 10px
+
+}
+
+.prepareInstruction h3{
+    font-size: 20px;
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+
+}
+
+.prepareInstruction h4{
+    font-size: 15px;
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.prepareIngredient{
+    font-size:15px;
+}
+
+h3{
+    font-size: 20px;
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.ranking h4{
+    text-align: center;
+    font-size:15px;
+}
